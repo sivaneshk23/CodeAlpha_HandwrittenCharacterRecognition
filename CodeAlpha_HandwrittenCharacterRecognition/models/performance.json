@@ -1,0 +1,8 @@
+{
+  "test_accuracy": 0.913796067237854,
+  "test_loss": 0.22006699442863464,
+  "weighted_f1": 0.9094654242706948,
+  "weighted_precision": 0.9125884142588945,
+  "weighted_recall": 0.913796058269066,
+  "num_classes": 62
+}
